@@ -6,4 +6,4 @@
 - Estilos para texto
 - Box model
 
-![Captura de pantalla]("/images/captura.png")
+![Captura de pantalla](images/captura.png)
