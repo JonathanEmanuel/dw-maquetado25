@@ -1,9 +1,10 @@
 🎯 Temas
-- Galería de imágenes
-- Agregar vídeo youtube
-- Estilos CSS
-- Selectores por etiqueta, clases
-- Estilos para texto
-- Box model
+- Modelos de Cajas
+- Cuando utilizarlo
+- Bordes
+- Márgenes
+- Rellenos
+- Elementos de bloque y de línea
+- Fondos
 
 ![Captura de pantalla](images/captura.png)
