@@ -1,10 +1,10 @@
 🎯 Temas
 - Modelos de Cajas
-- Cuando utilizarlo
-- Bordes
-- Márgenes
-- Rellenos
 - Elementos de bloque y de línea
+- Box-sizing
 - Fondos
+- Floats
+- Fondos con imagenes
+
 
 ![Captura de pantalla](images/captura.png)
