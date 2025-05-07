@@ -8,12 +8,14 @@
 
 body {
     background-color: #6d6c6c;
+    background-image: url("images/textura.png");
 }
 header {
     border: 2px solid #451023;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: #82f374;
+    background-image: url("images/foto1.webp");
+    background-repeat:no-repeat;
+    background-position: center 75%;
+    background-size: cover;
 }
 
 .menu {
@@ -63,11 +65,14 @@ section {
     background-color: white;
 }
 h1 {
-    color:  rgb(36, 138, 233);
+    color:  white;
     font-size: 64px;
     font-family: "Sour Gummy", sans-serif;
     letter-spacing: 3px;
     text-align: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: rgba(70, 16, 36, 0.7);
 }
 
 h2 {
